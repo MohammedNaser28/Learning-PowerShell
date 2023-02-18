@@ -47,8 +47,13 @@ $Array1= $Array1 + "item4"
 
 ```
 <hr>
+<<<<<<< HEAD
 <br>
 ## <mark style="background: #ABF7F7A6;">HashTables</mark>
+=======
+
+## ==HashTables==
+>>>>>>> 37639b60d9fda645c00f4b782f1969f07f494b62
 
 <hr>
 
